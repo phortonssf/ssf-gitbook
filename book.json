@@ -1,0 +1,13 @@
+ {
+    "plugins": ["custom-favicon","insert-logo","theme-api","exercises", "quiz", "collapsible-chapters","include-html"],
+    "pluginsConfig": {
+        "theme-api": {
+            "theme": "dark"
+        },
+         "insert-logo": {
+            "url": "http://git-book-phortonssf.c9users.io:8080/SoftStackFactory.png",
+            "style": "background: none;"
+        },
+        "favicon": "./favicon.ico"
+    }
+}
