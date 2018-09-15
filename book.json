@@ -5,7 +5,7 @@
             "theme": "dark"
         },
          "insert-logo": {
-            "url": "http://git-book-phortonssf.c9users.io:8080/SoftStackFactory.png",
+            "url": "./SoftStackFactory.png",
             "style": "background: none;"
         },
         "favicon": "./favicon.ico"
