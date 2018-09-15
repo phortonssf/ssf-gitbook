@@ -1,5 +1,14 @@
  {
-    "plugins": ["custom-favicon","insert-logo","theme-api","exercises", "quiz", "collapsible-chapters","include-html"],
+    "plugins": [
+        "disqus",
+        "custom-favicon",
+        "insert-logo",
+        "theme-api",
+        "exercises", 
+        "quiz", 
+        "collapsible-chapters",
+        "include-html"
+    ],
     "pluginsConfig": {
         "theme-api": {
             "theme": "dark"
@@ -8,6 +17,9 @@
             "url": "./SoftStackFactory.png",
             "style": "background: none;"
         },
-        "favicon": "./favicon.ico"
+        "favicon": "./favicon.ico",
+         "disqus": {
+            "shortName": "https://ssf.netlify.com/"
+        }
     }
 }
