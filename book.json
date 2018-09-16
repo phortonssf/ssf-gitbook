@@ -8,7 +8,8 @@
         "quiz", 
         "collapsible-chapters",
         "include-html",
-        "modal-youtube-video"
+        "modal-youtube-video",
+        "simpletabs"
     ],
     "pluginsConfig": {
         "theme-api": {
