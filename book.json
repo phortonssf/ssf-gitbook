@@ -14,12 +14,12 @@
             "theme": "dark"
         },
          "insert-logo": {
-            "url": "./SoftStackFactory.png",
+            "url": "https://ssf.netlify.com/SoftStackFactory.png",
             "style": "background: none;"
         },
         "favicon": "./favicon.ico",
          "disqus": {
-            "shortName": "https://ssf.netlify.com/"
+            "shortName": "https-ssf-netlify-com"
         }
     }
 }
