@@ -1,1 +1,6 @@
+---
+disqus:
+  identifier: "angular"
+---
+
 # Angular

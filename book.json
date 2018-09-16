@@ -7,7 +7,8 @@
         "exercises", 
         "quiz", 
         "collapsible-chapters",
-        "include-html"
+        "include-html",
+        "modal-youtube-video"
     ],
     "pluginsConfig": {
         "theme-api": {
