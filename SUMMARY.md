@@ -1,16 +1,15 @@
-
-
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
+* [Untitled](untitled.md)
 
 ## Javascript
 
-* [Overview](subjects/javascript/README.md)
-    * [Writing is nice](js2.md)
-      * [Writing is nice](js.md)
-< width="20" height="20" src="http://git-book-phortonssf.c9users.io/angular-icon.svg"> 
+* [Overview](javascript/javascript/README.md)
+  * [Writing is nice](javascript/javascript/js2/README.md)
+    * [Writing is nice](javascript/javascript/js2/js.md)
 
-## Angular 
-* [Angular](subjects/angular/README.md)
+## Angular
+
+* [Angular](angular/angular.md)
 
