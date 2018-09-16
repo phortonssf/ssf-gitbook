@@ -1,9 +1,0 @@
----
-disqus:
-  identifier: angular
----
-
-# Angular
-
-
-
